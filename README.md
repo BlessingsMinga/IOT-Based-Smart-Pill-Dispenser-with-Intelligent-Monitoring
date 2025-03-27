@@ -3,38 +3,29 @@ As part of our school’s Real time embedded systems course, our team of 11 memb
 How It Works:
 
 Our smart dispenser automates and monitors medication schedules using:
-🔹 Biometric Security – Facial recognition/fingerprint scanning to prevent misuse.
-🔹 Real-Time Alerts – Mobile app notifications for missed doses, low stock, or errors.
-🔹 RFID Medicine Verification – Ensures the correct pills are loaded.
-🔹 Voice Reminders – Makes the system accessible for elderly or visually impaired users.
-🔹 Overdose Protection – Blocks incorrect doses and alerts caregivers.
+<br>
+🔹 Biometric Security – Facial recognition/fingerprint scanning to prevent misuse.<br>
+🔹 Real-Time Alerts – Mobile app notifications for missed doses, low stock, or errors.<br>
+🔹 RFID Medicine Verification – Ensures the correct pills are loaded.<br>
+🔹 Voice Reminders – Makes the system accessible for elderly or visually impaired users.<br>
+🔹 Overdose Protection – Blocks incorrect doses and alerts caregivers.<br>
+
+<br>
 Learning Outcomes:
 
-Through this project, we’re gaining practical experience in:
+Through this project, we’re gaining practical experience in: <br>
 
-    Collaborative Engineering – Dividing tasks (hardware, software, testing) among team members.
+Collaborative Engineering – Dividing tasks (hardware, software, testing) among team members.<br>
 
-    Problem-Solving – Troubleshooting real-world IoT and AI challenges.
+Problem-Solving – Troubleshooting real-world IoT and AI challenges.<br>
 
-    User-Centered Design – Conducting research to address patient/caregiver needs.
+User-Centered Design – Conducting research to address patient/caregiver needs.<br>
 
-    Presentation Skills – Documenting progress and presenting findings to peers/teachers.
+Presentation Skills – Documenting progress and presenting findings to peers/teachers. <br><br>
 
-#Why It Matters:
+Why It Matters:
 
-Medication errors cause thousands of preventable hospitalizations yearly. By building this prototype, we aim to:
-✅ Improve patient safety – Reducing human error in home medication management.
-✅ Apply STEM concepts – Bridging theory (coding, circuits, AI) with practical solutions.
-✅ Inspire future projects – Encouraging peers to tackle healthcare tech challenges.
-
-Next Steps:
-We’re currently in the [prototyping/testing] phase and welcome feedback from teachers and classmates!
-Key School-Centric Adjustments:
-
-    Academic framing – Links to coursework, skills gained, and teacher/peer involvement.
-
-    Team size/roles – Highlights student collaboration (adjust "[X students]" as needed).
-
-    Simplified tech terms – Keeps tech details clear without sounding overly technical.
-
-    Progress tracking – Mentions the current phase to show it’s an active learning process.
+Medication errors cause thousands of preventable hospitalizations yearly. By building this prototype, we aim to:<br>
+✅ Improve patient safety – Reducing human error in home medication management.<br>
+✅ Apply STEM concepts – Bridging theory (coding, circuits, AI) with practical solutions.<br>
+✅ Inspire future projects – Encouraging peers to tackle healthcare tech challenges.<br>
