@@ -1,2 +1,2 @@
 # IOT-Based-Smart-Pill-Dispenser-with-Intelligent-Monitoring
-Our team is developing an IoT-based Smart Pill Dispenser designed to simplify medication management while ensuring safety and adherence. This intelligent system automates dosage dispensing, provides real-time monitoring, and sends alerts to users and caregivers reducing the risk of missed or incorrect doses.
+As part of our school’s Real time embedded systems course, our team of 11 members is designing an IoT-powered Smart Pill Dispenser to explore real-world applications of embedded systems, AI, and healthcare technology. This project combines classroom learning with hands-on innovation to solve a critical problem of medication non-adherence.
