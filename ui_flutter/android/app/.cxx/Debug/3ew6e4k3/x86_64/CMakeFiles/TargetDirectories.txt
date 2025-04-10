@@ -1,0 +1,2 @@
+C:/Users/msisk/StudioProjects/IOT-Based-Smart-Pill-Dispenser-with-Intelligent-Monitoring/ui_flutter/android/app/.cxx/Debug/3ew6e4k3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/msisk/StudioProjects/IOT-Based-Smart-Pill-Dispenser-with-Intelligent-Monitoring/ui_flutter/android/app/.cxx/Debug/3ew6e4k3/x86_64/CMakeFiles/rebuild_cache.dir
