@@ -16,7 +16,7 @@ class LoginPage extends StatelessWidget {
               const SizedBox(height: 40),
               Row(
                 children: [
-                  Image.asset('assets/logo.png', height: 40), // Match CarePill logo
+                  Image.asset('assets/logo.jpg', height: 40), // Match CarePill logo
                   const SizedBox(width: 10),
                   const Text(
                     'CarePill',

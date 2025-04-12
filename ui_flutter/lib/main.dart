@@ -34,7 +34,7 @@ class TapWrapper extends StatelessWidget {
           MaterialPageRoute(builder: (context) => const LoginPage()),
         );
       },
-      child: const CarePillApp(), // Your original home screen
+      child:  CarePillApp(), // Your original home screen
     );
   }
 }
