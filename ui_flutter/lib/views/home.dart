@@ -216,7 +216,7 @@ class CarePillHomePage extends StatelessWidget {
         child: Column(
           children: [
             Image.asset(imgPath, width: 20, height: 20),
-            const SizedBox(height: 8),
+            const SizedBox(height: 4),
             Text(name,
                 style:
                 const TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
@@ -227,7 +227,8 @@ class CarePillHomePage extends StatelessWidget {
                 backgroundColor: Colors.blue,
                 minimumSize: const Size(40, 20),
               ),
-              child: const Text('View'),
+              child: const Text('View',
+              style: TextStyle(color: Colors.white),),
             )
           ],
         ),
