@@ -145,6 +145,7 @@ class CarePillHomePage extends StatelessWidget {
                     const Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
+                        mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
                             'Paracetamol',
