@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ui_flutter/views/schedule.dart';
+import 'package:ui_flutter/views/settings.dart';
 
 class CarePillHomePage extends StatefulWidget {
   const CarePillHomePage({super.key});
@@ -14,6 +15,11 @@ class _CarePillHomePageState extends State<CarePillHomePage> {
   final List<Widget> _pages = [
     const HomeScreen(),
     SchedulePage(),
+    const SettingsPage(
+      username: 'Timothy Msiska',
+      email: 'msiskazikani@gmail.com',
+      phone: '0882761779',
+    ),
   ];
 
   @override

@@ -6,7 +6,7 @@ import 'add_schedule.dart';
 class SchedulePage extends StatelessWidget {
   final List<String> days = ["M", "T", "W", "T", "F", "S", "S"];
   final List<int> dates = [14, 15, 16, 17, 18, 19, 20];
-  final int selectedIndex = 2;
+  final int selectedIndex = 5;
 
    SchedulePage({super.key}); // Index of the selected day
 
