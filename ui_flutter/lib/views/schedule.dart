@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'add_schedule.dart';
+
 
 
 class SchedulePage extends StatelessWidget {
@@ -85,7 +87,12 @@ class SchedulePage extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.white,
-        onPressed: () {},
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const NewSchedulePage()),
+          );
+        },
         child: const Icon(Icons.add, color: Colors.purple),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
